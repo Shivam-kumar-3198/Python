@@ -1,0 +1,8 @@
+# friends = ["Apple", "Orange", 5,45,0.45,False ]
+# print(friends)
+# friends.append("Shivam")
+# print(friends)
+
+L1=[54,56,67,1,2,3,]
+L1.sort()
+print(L1)
