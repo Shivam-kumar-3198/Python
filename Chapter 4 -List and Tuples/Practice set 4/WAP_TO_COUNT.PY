@@ -1,0 +1,6 @@
+#WRITE A PROGRAM TO COUNT THE NUMBER OF ZEROES IN THE FOLLOWING TABLE a=(7,0,8,0,0,3)
+
+a = (7,0,8,0,0,3)
+
+n=a.count(0)
+print(n)
