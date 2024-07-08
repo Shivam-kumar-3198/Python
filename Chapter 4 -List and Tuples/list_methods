@@ -6,3 +6,65 @@
 L1=[54,56,67,1,2,3,]
 L1.sort()
 print(L1)
+
+# Example:
+# Python
+
+# my_list = [1, 2, 3]
+# my_list.append(4)  # Now my_list contains [1, 2, 3, 4]
+# AI-generated code. Review and use carefully. More info on FAQ.
+# index():
+# Returns the index of the first occurrence of a specified value.
+# Example:
+# Python
+
+# my_list = [10, 20, 30, 20]
+# index = my_list.index(20)  # Returns 1 (index of the first '20')
+# AI-generated code. Review and use carefully. More info on FAQ.
+# insert():
+# Adds an element at a specific position in the list.
+# Example:
+# Python
+
+# my_list = [1, 2, 3]
+# my_list.insert(1, 5)  # Inserts 5 at index 1: [1, 5, 2, 3]
+# AI-generated code. Review and use carefully. More info on FAQ.
+# pop():
+# Removes and returns the element at a specified position.
+# Example:
+# Python
+
+# my_list = [10, 20, 30]
+# removed_value = my_list.pop(1)  # Removes 20, my_list becomes [10, 30]
+# AI-generated code. Review and use carefully. More info on FAQ.
+# remove():
+# Removes the first occurrence of a specified value from the list.
+# Example:
+# Python
+
+# my_list = [10, 20, 30, 20]
+# my_list.remove(20)  # Removes the first '20', my_list becomes [10, 30, 20]
+# AI-generated code. Review and use carefully. More info on FAQ.
+# reverse():
+# Reverses the order of elements in the list.
+# Example:
+# Python
+
+# my_list = [1, 2, 3]
+# my_list.reverse()  # Reverses the list: [3, 2, 1]
+# AI-generated code. Review and use carefully. More info on FAQ.
+# count():
+# Returns the number of occurrences of a specified value in the list.
+# Example:
+# Python
+
+# my_list = [10, 20, 30, 20]
+# count_20 = my_list.count(20)  # Returns 2 (two occurrences of '20')
+# AI-generated code. Review and use carefully. More info on FAQ.
+# copy():
+# Creates a shallow copy of the list.
+# Example:
+# Python
+
+# original_list = [1, 2, 3]
+# copied_list = original_list.copy()  # Creates a new list with the same elements
