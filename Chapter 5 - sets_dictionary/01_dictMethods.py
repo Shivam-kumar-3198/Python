@@ -5,4 +5,9 @@ marks ={
     0: "Harry"
 }
 
-print(marks.keys())
+# print(marks.items())
+# print(marks.keys())
+# print(marks.values())
+
+marks.update({"Shivam":99})
+print(marks)
