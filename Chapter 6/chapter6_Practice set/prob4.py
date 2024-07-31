@@ -2,7 +2,7 @@
 username = input("Enter username")
 
 if(len(username)<10):
-    print("Your Username contains 10 characters ")
+    print("Your Username contains 10 characters you are good to go")
 
 else:
     print("Your Username contains more than 10 characters ")
