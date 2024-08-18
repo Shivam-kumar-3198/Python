@@ -1,4 +1,4 @@
-n = int(input("Enter a number  : "))
+n = int(input("Enter a table  : "))
 
 i=1
 while(i<11):
