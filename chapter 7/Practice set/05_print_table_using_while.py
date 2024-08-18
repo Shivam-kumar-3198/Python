@@ -1,4 +1,4 @@
-n = int(input("Enter a table  : "))
+n = int(input("Enter a table you want to print : "))
 
 i=1
 while(i<11):
