@@ -1,4 +1,4 @@
-n = int(input("Enter a number of your choice : "))
+n = int(input("Enter a number  : "))
 
 i=1
 while(i<11):
