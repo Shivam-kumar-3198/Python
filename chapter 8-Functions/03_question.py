@@ -1,4 +1,7 @@
 def goodDay(name):
     print("Good Day," + name)
 
-goodDay("harry")    
+goodDay("Harry")
+goodDay("Rohan")
+goodDay("Divya")
+    
