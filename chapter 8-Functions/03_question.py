@@ -4,4 +4,3 @@ def goodDay(name):
 goodDay("Harry")
 goodDay("Rohan")
 goodDay("Divya")
-    
