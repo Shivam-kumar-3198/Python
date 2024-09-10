@@ -12,4 +12,4 @@ def greatest(a,b,c):
     elif(c>b and c>a):
         return c
 
-print("Greatest of three number : ")
+print("Greatest of three number: ")
