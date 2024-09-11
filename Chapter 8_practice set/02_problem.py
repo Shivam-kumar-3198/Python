@@ -3,3 +3,4 @@ def f_to_c(f):
 
 f = int(input("Enter temperature in fahrenheit : "))
 print(f"{f_to_c(f)} degree to C")
+print("your temperature is converted into celcius")
