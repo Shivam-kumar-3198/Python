@@ -1,6 +1,6 @@
 name ="shivam"
 b = 'me'
-c = '1'
+c = '123'
 nameshort = name[0:3]
 
 print(name[0:6])
