@@ -2,7 +2,7 @@
 # # write the python code capable of playing by user 
 # write the code for it 
 computer = -1
-you = input("Enter Your Choice : ")
+youstr = input("Enter Your Choice : ")
 youDict = {"s":1, "w":-1, "g":0 }
 you = youDict[youstr]
 
