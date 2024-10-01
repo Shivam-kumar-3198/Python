@@ -10,7 +10,7 @@ if(computer ==-1 and you ==1):
     print("you win!!")
 
 elif(computer ==-1 and you ==0):
-    print("You Lose!")
+    print("You Lost!")
 
 if(computer ==1 and you ==-1):
     print("You Lose!")
