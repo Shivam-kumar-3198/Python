@@ -15,7 +15,7 @@ elif(computer ==-1 and you ==0):
 if(computer ==1 and you ==-1):
     print("You Lose!")
 
-elif(computer ==1 and you ==0):
+elif(computer ==1 and you == 0):
     print("You Win!!") 
 
 if(computer ==0 and you ==-1):
