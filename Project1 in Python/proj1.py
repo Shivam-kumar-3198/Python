@@ -13,7 +13,7 @@ def snake_water_gun():
     youDict = {"s": 1, "w": -1, "g": 0}
     
     if youstr not in youDict:
-        print("Invalid input! Please enter 's', 'w', or 'g'.")
+        print("Invalid input! Please enter 'snake', 'water', or 'gun'.")
         return
     
     # Map input to numbers
