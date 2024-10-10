@@ -7,7 +7,7 @@ import random
 def snake_water_gun():
     choices = ["s", "w", "g"]  # Snake, Water, Gun choices
     computer = random.choice(choices)  # Computer randomly selects
-    youstr = input("Enter Your Choice (s for Snake, w for Water, g for Gun): ").lower()
+    youstr = input("Enter Your Choice(s for Snake, w for Water, g for Gun): ").lower()
 
     # Dictionary to represent outcomes
     youDict = {"s": 1, "w": -1, "g": 0}
