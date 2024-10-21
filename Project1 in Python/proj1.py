@@ -34,3 +34,4 @@ def snake_water_gun():
 
 # Run the game
 snake_water_gun()
+snake_water_gun()
